@@ -132,5 +132,10 @@ By opening a PR to add your project, you authorize and license Coinbase on a non
 - Active development and community engagement can be observed without issue
 
 ---
+## Local development notes
+
+This project is primarily intended to be run in a local or staging environment.
+Configuration and setup details may evolve over time as the application grows.
+
 
 If you have any questions, please reach out to us in #developer-chat in the [Base Discord](https://base.org/discord).
